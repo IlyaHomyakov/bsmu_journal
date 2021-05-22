@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'journal_beta.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'django_db',
-        'USER': 'user_name',
-        'PASSWORD': 'password',
-        'HOST': '127.0.0.1',
+        'NAME': 'd9qvldo4k2ui0g',
+        'USER': 'mrbvoyndzdpgxg',
+        'PASSWORD': '9583c36474e22689b9173e08501208074e9e20fc1986c4360676d51b7e8aeb74',
+        'HOST': 'ec2-3-234-22-132.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
