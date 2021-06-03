@@ -101,7 +101,6 @@ def get_group_schedule(request, got_group_number):
             "subject": groupTable[i]['subject'],
             "subjectType": groupTable[i]['lessonTypeChoice'],
             "weekType": groupTable[i]['weekTypeChoice'],
-            "specialDays": groupTable[i]['specialDays'],
             "auditory": groupTable[i]['auditory'],
             "startLessonTime": groupTable[i]['startLessonTime'],
             "endLessonTime": groupTable[i]['endLessonTime'],
